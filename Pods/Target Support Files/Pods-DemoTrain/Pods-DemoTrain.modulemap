@@ -1,0 +1,6 @@
+framework module Pods_DemoTrain {
+  umbrella header "Pods-DemoTrain-umbrella.h"
+
+  export *
+  module * { export * }
+}
